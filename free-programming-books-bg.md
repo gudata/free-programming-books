@@ -9,3 +9,7 @@
 * [Немногократко въведениев LaTeX2ε](http://www.ctan.org/tex-archive/info/lshort/bulgarian)
 * [Програмиране за .NET Framework](http://www.devbg.org/dotnetbook/) - С. Наков и колектив
 * [Интернет програмиране с Java](http://www.nakov.com/books/inetjava/index.html) - С. Наков
+
+###Шаблони
+* [design-patterns-book](https://code.google.com/p/design-patterns-book/) - Б. Абаджимаринов, Д. Алексиев, Н. Василев, Н. Ганчев, Н. Томитов, С. Наков, С. Иванов, Ц. Василев
+
